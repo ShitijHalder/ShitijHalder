@@ -3,26 +3,25 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ShitijHalder&color=green)
 
 ## About Me
-I am a passionate developer with a keen interest in **Web Development and Android Building**. I love working on **Web based projects and with the touch of Android Developement**.
+I am a passionate developer with a keen interest in **Web Designing with Development of it and also Signal Processing (LLMs, AGI, ASIs**. I love working on **Web based projects and projects related to signal processsing*.
 
-- 🔭 I’m currently working on: **2 Web Based Projects and One Android Building Project** 
-- 🌱 I’m currently exploring: **Python, Rust, React, Tailwind CSS.**
-- 💬 Ask me about: **HTML, CSS, .js and Bash.**
+- 🔭 I’m currently working on: **One AI based project that involves signal processing and One Android Building Project for Nothing Phone 3(a)** 
+- 🌱 I’m currently exploring: **Python, HTML, Tailwind CSS and C Programming.**
+- 💬 Ask me about: **Signal Processing, Privacy, Network and about IoTs, additionally Android Environment.**
 - 📫 How to reach me: Email: shitijhalder4@gmail.com or via Instagram [@shitijnotop](https://www.instagram.com/shitijnotop) and Telegram [@shitijnotop](https://t.me/shitijnotop)
 
 ## My Current Working Projects
-### [**onlyforherforever.github.io**](https://onlyforherforever.github.io)
-A website designed to add your stories for the world to see and embrace it. It's about writing about your feelings with the memories of her.
+### [**Project GlyphMotion**](https://projectglyphmotion.studio/)
+
+This project provides a web-based interface for real-time object tracking in videos. Users can upload a video file or provide a video URL, which is then processed by a local backend system. The system leverages the Ultralytics YOLOv8(m) model for object detection and tracking and integrates with GitHub Pages and Google Drive for storing and serving processed results.
 
 ### [**shitijhalder.github.io**](https://shitijhalder.github.io)
 It's a personal website of mine where I show my things to the world, my photography, my writing, and more!
 
-### Android Project for Realme Narzo 30 (Codename: salaa)
-- [**Android Device Tree for Realme 7/ Narzo 20/ Narzo 30 4g [A14/A15] | rUI3 vendor**](https://github.com/ShitijHalder/device_realme_salaa)
-- [**Android Vendor Tree for Realme 7/ Narzo 20/ Narzo 30 4g [A14/A15] | rUI3 vendor**](https://github.com/ShitijHalder/vendor_realme_salaa)
-- [**Android Kernel Tree for Realme 7/ Narzo 20/ Narzo 30 4g [A14/A15] | rUI3 vendor**](https://github.com/ShitijHalder/kernel_realme_salaa)
+### [ShutterBug](https://onehorizon.me/ShutterBug/)
+It is specifically a photography website for showcasing the pictures I have taken using my phone only. 
 
 ## Skills
-- **Programming Languages:** HTML, CSS, Bash, JavaScript, Python
-- **Frameworks:** Android SDK, Android NDK, Retrofit, Dagger
-- **Tools:** Android Studio, VS Code, GitHub Workspaces, Gradle, ADB, Git, JIRA, Postman
+- **Programming Languages:** HTML, CSS, Bash, JavaScript, Python, C.
+- **Frameworks:** Android SDK, Android NDK
+- **Tools:** Android Studio, VS Code, GitHub Workspaces, ADB, Git
