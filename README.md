@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ShitijHalder&color=green)
 
 ## About Me
-I am a passionate developer with a keen interest in **Web Designing with Development of it and also Signal Processing (LLMs, AGI, ASIs)**. I love working on **Web based projects and projects related to signal processsing*.
+I am a passionate developer with a keen interest in **Web Designing with Development of it and also Signal Processing (LLMs, AGI, ASIs)**. I love working on **Web based projects and projects related to signal processsing**.
 
 - 🔭 I’m currently working on: **One AI based project that involves signal processing and One Android Building Project for Nothing Phone 3(a)** 
 - 🌱 I’m currently exploring: **Python, HTML, Tailwind CSS and C Programming.**
