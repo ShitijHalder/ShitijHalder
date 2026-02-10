@@ -15,8 +15,8 @@ I am a passionate developer with a keen interest in **Web Designing with Develop
 
 This project provides a web-based interface for real-time object tracking in videos. Users can upload a video file or provide a video URL, which is then processed by a local backend system. The system leverages the Ultralytics YOLOv8(m) model for object detection and tracking and integrates with GitHub Pages and Google Drive for storing and serving processed results.
 
-### [**shitijhalder.github.io**](https://shitijhalder.github.io)
-It's a personal website of mine where I show my things to the world, my photography, my writing, and more!
+### [**shitijhalder.github.io**](https://shitijhalder.in)
+Portfolio of Shitij Halder featuring web design, AI/ML projects, and visual storytelling.
 
 ### [ShutterBug](https://onehorizon.me/ShutterBug/)
 It is specifically a photography website for showcasing the pictures I have taken using my phone only. 
